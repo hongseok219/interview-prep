@@ -24,5 +24,4 @@ public class Solution1 {
 		System.out.println(s1.hasAllUniqueChar("aba"));
 		System.out.println(s1.hasAllUniqueChar("agrb"));
 	}
-
 }
